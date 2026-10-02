@@ -71,10 +71,28 @@ EV-charging-demand-scenario-generator/
 
 ## Requirements
 
-* Python 3.10 or later
-* No external Python packages are required.
+- Python 3.14.7
+- No external Python packages are required.
 
 The project uses only Python's standard library.
+
+### Version Used
+
+This project was developed and tested using:
+
+```text
+Python 3.14.7
+Windows
+
+
+This is better for your submission because the evaluator can see exactly what environment you used.
+
+### 2. Save and run the tests
+
+After saving `README.md`:
+
+```powershell
+python -m unittest discover -s tests -v
 
 ---
 
