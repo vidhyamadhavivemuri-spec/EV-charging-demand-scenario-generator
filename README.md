@@ -346,4 +346,4 @@ approach_and_assumptions.md
 
 ## Author
 
-Built as a software-only learning project to understand deterministic random generation, validation, JSON-based input/output, and automated testing.
+Vemuri Vidhya Madhavi
